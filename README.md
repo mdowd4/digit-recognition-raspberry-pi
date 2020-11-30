@@ -28,7 +28,7 @@ These are the python packages that needed to be installed on the Raspberry Pi:
 - SenseHat
 
 ## Demo Video
-Coming soon - I will post the demo video on YouTube and provide a link.
+To see the Pi in action, you can watch it predict a few digits in this [video](https://youtu.be/7QEwcNono60).
 
 ## History
 This was a semester final project for my Neural Networks & Machine Learning elective course. Throughout the class, I learned how to use many python packages including Keras, Pandas, Numpy, and OpenCV. I learned the math behind linear regression, logistic regression, Relu and Sigmoid activation, and CNNs. The purpose of this project was to utilize most of the skills and knowledge from the class and implement it on an embedded system for a practical application.
